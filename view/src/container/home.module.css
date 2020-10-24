@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+}
+.test {
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    color: black;
+}
+.navLinks {
+    display: flex;
+    flex-direction: row;
+}
+.navText {
+    padding: 30px;
+/*    padding-left: 10%;
+*/}
+.navTextEnd {
+    padding: 30px;
+/*    padding-left: 10%;
+*/
+}
